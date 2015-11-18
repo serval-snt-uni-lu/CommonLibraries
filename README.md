@@ -27,3 +27,6 @@ Despite some efforts on investigating Android libraries, the momentum of Android
 # Advertisement Libraries
 * [ad_1050.:  1049](libraries/ad_1050.txt)
 * [ad_240.:  239](libraries/ad_240.txt)
+
+# Comments & Suggestions
+If you have any comments or suggestions related to our harvested libraries, you are welcome to discuss with ours through the issues track.
