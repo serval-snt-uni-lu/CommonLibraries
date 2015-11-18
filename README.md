@@ -6,27 +6,27 @@ Despite some efforts on investigating Android libraries, the momentum of Android
 
 
 # Common Libraries
-* [cl_61.:  1735](libraries/cl_61.txt)
-* [cl_62.:  3179](libraries/cl_62.txt)
-* [cl_63.:  4452](libraries/cl_63.txt)
-* [cl_64.:  5509](libraries/cl_64.txt)
-* [cl_71.:  1573](libraries/cl_71.txt)
-* [cl_72.:  2898](libraries/cl_72.txt)
-* [cl_73.:  4117](libraries/cl_73.txt)
-* [cl_74.:  5144](libraries/cl_74.txt)
-* [cl_81.:  1363](libraries/cl_81.txt)
-* [cl_82.:  2564](libraries/cl_82.txt)
-* [cl_83.:  3715](libraries/cl_83.txt)
-* [cl_84.:  4685](libraries/cl_84.txt)
-* [cl_91.:  1113](libraries/cl_91.txt)
-* [cl_92.:  2148](libraries/cl_92.txt)
-* [cl_93.:  3173](libraries/cl_93.txt)
-* [cl_94.:  4072](libraries/cl_94.txt)
+* [cl_61:  1735](libraries/cl_61.txt)
+* [cl_62:  3179](libraries/cl_62.txt)
+* [cl_63:  4452](libraries/cl_63.txt)
+* [cl_64:  5509](libraries/cl_64.txt)
+* [cl_71:  1573](libraries/cl_71.txt)
+* [cl_72:  2898](libraries/cl_72.txt)
+* [cl_73:  4117](libraries/cl_73.txt)
+* [cl_74:  5144](libraries/cl_74.txt)
+* [cl_81:  1363](libraries/cl_81.txt)
+* [cl_82:  2564](libraries/cl_82.txt)
+* [cl_83:  3715](libraries/cl_83.txt)
+* [cl_84:  4685](libraries/cl_84.txt)
+* [cl_91:  1113](libraries/cl_91.txt)
+* [cl_92:  2148](libraries/cl_92.txt)
+* [cl_93:  3173](libraries/cl_93.txt)
+* [cl_94:  4072](libraries/cl_94.txt)
 
 
 # Advertisement Libraries
-* [ad_1050.:  1049](libraries/ad_1050.txt)
-* [ad_240.:  239](libraries/ad_240.txt)
+* [ad_1050:  1049](libraries/ad_1050.txt)
+* [ad_240:  239](libraries/ad_240.txt)
 
 # Comments & Suggestions
 If you have any comments or suggestions related to our harvested libraries, you are welcome to discuss with us through the [issues track](https://github.com/serval-snt-uni-lu/CommonLibraries/issues).
