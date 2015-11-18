@@ -29,4 +29,4 @@ Despite some efforts on investigating Android libraries, the momentum of Android
 * [ad_240.:  239](libraries/ad_240.txt)
 
 # Comments & Suggestions
-If you have any comments or suggestions related to our harvested libraries, you are welcome to discuss with ours through the issues track.
+If you have any comments or suggestions related to our harvested libraries, you are welcome to discuss with us through the [issues track](https://github.com/serval-snt-uni-lu/CommonLibraries/issues).
