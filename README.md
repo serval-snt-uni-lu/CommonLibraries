@@ -5,6 +5,10 @@ The packaging model of Android apps requires the entire code necessary for the e
 Despite some efforts on investigating Android libraries, the momentum of Android research has not yet produced a complete set of common libraries to further support in-depth analysis of Android apps. In this paper, we leverage a dataset of about 1.5 million apps from Google Play to harvest potential common libraries, including advertisement libraries. With several steps of refinements, we finally collect by far the largest set of 1,113 libraries supporting common functionalities and 240 libraries for advertisement. We use the dataset to investigates several aspects of Android libraries, including their popularity and their proportion in Android app code. Based on these datasets, we have further performed several empirical investigations to confirm the motivations behind our work.
 
 
+If you use our harvested libraries in your research, you can cite the following technique report:
+* Li Li, Tegawendé F. Bissyandé, Jacques Klein, Yves Le Traon, An Investigation into the Use of Common Libraries in Android Apps, Technique Report, 2015 [[pdf]]()
+
+
 # Common Libraries
 * [cl_61:  1735](libraries/cl_61.txt)
 * [cl_62:  3179](libraries/cl_62.txt)
