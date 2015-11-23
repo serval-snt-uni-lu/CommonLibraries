@@ -6,7 +6,7 @@ Despite some efforts on investigating Android libraries, the momentum of Android
 
 
 If you use our harvested libraries in your research, you can cite the following technique report:
-* Li Li, Tegawendé F. Bissyandé, Jacques Klein, Yves Le Traon, An Investigation into the Use of Common Libraries in Android Apps, Technique Report, 2015 [[pdf]()] [[bib](http://lilicoding.github.io/bibs/li2015investigation-tr.html)]
+* Li Li, Tegawendé F. Bissyandé, Jacques Klein, Yves Le Traon, An Investigation into the Use of Common Libraries in Android Apps, Technique Report, 2015 [[pdf](http://arxiv.org/pdf/1511.06554v1.pdf)] [[bib](http://lilicoding.github.io/bibs/li2015investigation-tr.html)]
 
 
 # Common Libraries
