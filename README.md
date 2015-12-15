@@ -29,8 +29,8 @@ If you use our harvested libraries in your research, you can cite the following 
 
 
 # Advertisement Libraries
-* [ad_1050:  1049](libraries/ad_1050.txt)
-* [ad_240:  239](libraries/ad_240.txt)
+* [ad_1050:  1050](libraries/ad_1050.txt)
+* [ad_240:  240](libraries/ad_240.txt)
 
 # Comments & Suggestions
 If you have any comments or suggestions related to our harvested libraries, you are welcome to discuss with us through the [issues track](https://github.com/serval-snt-uni-lu/CommonLibraries/issues).
